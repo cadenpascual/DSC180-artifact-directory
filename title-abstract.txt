@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+KAWHI - Kinetic Adaptation via Wasserstein Heuristics and Identity
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
