@@ -2,4 +2,4 @@ Title:
 KAWHI - Kinetic Adaptation via Wasserstein Heuristics and Identity
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The rise in spatiotemporal tracking data has shifted basketball analytics from tracking discrete events to analyzing continuous, team-wide dynamics. While current simulation methods often rely on imitation learning to mimic player movements, they struggle to capture the synchronized, fluid motion of a five-player defensive unit. To address this, we propose a physics-based approach that models a basketball defense as a continuous ``active matter" system. Using 2015-16 NBA SportVU tracking data, we formulate defensive transitions as a Wasserstein Gradient Flow utilizing the Jordan-Kinderlehrer-Otto (JKO) scheme. The model balances the potential energy minimization of real-time scoring threat against the physical, kinematic cost of optimal transport, ultimately achieving a 97.12\% positioning win rate over historical professional athletes. This framework demonstrates that prioritizing mathematical consistency over human intuition can yield fundamentally safer defensive configurations.
